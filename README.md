@@ -58,35 +58,45 @@ Methodology
 Insights and Recommendations
 
 1. Song Duration Across Different Genres
-Insight: Duration varies significantly across genres. Recommendation: Artists should consider genre-specific trends in song duration when creating music. Streaming services can curate playlists with diverse song lengths.
+Insight: Duration varies significantly across genres.
+Recommendation: Artists should consider genre-specific trends in song duration when creating music. Streaming services can curate playlists with diverse song lengths.
 
-2. Correlation Between Song Popularity and Explicit Content
-Insight: Very weak correlation between popularity and explicit content. Recommendation: Focus on song quality and audience engagement rather than explicit content alone.
+3. Correlation Between Song Popularity and Explicit Content
+Insight: Very weak correlation between popularity and explicit content.
+Recommendation: Focus on song quality and audience engagement rather than explicit content alone.
 
-3. Distribution of Danceability Scores Across Different Years
-Insight: Danceability scores have increased over recent years. Recommendation: Align new releases with danceability trends and experiment with danceable elements in music production.
+4. Distribution of Danceability Scores Across Different Years
+Insight: Danceability scores have increased over recent years.
+Recommendation: Align new releases with danceability trends and experiment with danceable elements in music production.
 
-4. Trends in Energy Levels of Songs Over the Years
-Insight: Energy levels have fluctuated, with peaks in the mid-2010s and 2020. Recommendation: Monitor energy level trends to align with listener preferences and emphasize high-energy tracks during peak periods.
+5. Trends in Energy Levels of Songs Over the Years
+Insight: Energy levels have fluctuated, with peaks in the mid-2010s and 2020.
+Recommendation: Monitor energy level trends to align with listener preferences and emphasize high-energy tracks during peak periods.
 
-5. Popularity of Top Hits Among Top 10 Artists
-Insight: Variation in average popularity among top artists. Recommendation: Balance the number of songs with maintaining high popularity and optimize marketing efforts based on release schedules and artist performance.
+6. Popularity of Top Hits Among Top 10 Artists
+Insight: Variation in average popularity among top artists.
+Recommendation: Balance the number of songs with maintaining high popularity and optimize marketing efforts based on release schedules and artist performance.
 
-6. Distribution of Songs With and Without Explicit Content
-Insight: Higher number of songs with explicit content. Recommendation: Adjust content policies and curate playlists that cater to various preferences regarding explicit content.
+7. Distribution of Songs With and Without Explicit Content
+Insight: Higher number of songs with explicit content.
+Recommendation: Adjust content policies and curate playlists that cater to various preferences regarding explicit content.
 
-7. Relationship Between Acousticness and Song Valence
-Insight: Weak negative relationship between acousticness and valence. Recommendation: Consider balancing acoustic and emotional qualities in music production to meet diverse listener preferences.
+8. Relationship Between Acousticness and Song Valence
+Insight: Weak negative relationship between acousticness and valence.
+Recommendation: Consider balancing acoustic and emotional qualities in music production to meet diverse listener preferences.
 
-8. Differences in Tempo Across Modes (Major vs. Minor)
-Insight: Minor modes have slightly higher average tempo. Recommendation: Experiment with different modes to achieve varied tempo and enhance the dynamic range of compositions.
+9. Differences in Tempo Across Modes (Major vs. Minor)
+Insight: Minor modes have slightly higher average tempo.
+Recommendation: Experiment with different modes to achieve varied tempo and enhance the dynamic range of compositions.
 
-9. Popularity of Genres Over the Years
-Insight: Genre popularity has evolved, reflecting changing listener preferences. Recommendation: Stay updated on genre trends to align new releases with audience interests and target marketing strategies effectively.
+10. Popularity of Genres Over the Years
+Insight: Genre popularity has evolved, reflecting changing listener preferences.
+Recommendation: Stay updated on genre trends to align new releases with audience interests and target marketing strategies effectively.
 
-10. Relationship Between Song Liveliness and Instrumentalness
+11. Relationship Between Song Liveliness and Instrumentalness
 Insight: Very weak relationship between liveliness and instrumentalness. Recommendation: Focus on creating lively tracks without being overly concerned about instrumentalness. Explore other factors influencing song success.
 
 Conclusion
+
 The analysis of the Spotify dataset provides valuable insights into song attributes and trends. The recommendations are designed to guide artists, producers, and marketing teams in making informed decisions to align with audience preferences and industry trends.
 
