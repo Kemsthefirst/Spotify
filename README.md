@@ -26,75 +26,106 @@ Questions Addressed
     
 Methodology
 1. Song Duration Across Different Genres
+
 •	Approach: Grouped the dataset by genre and calculated the average song duration for each genre. Visualized results using a bar plot.
 
 3. Correlation Between Song Popularity and Explicit Content
+
 •	Approach: Calculated the Pearson correlation coefficient between song popularity and explicit content.
 
 5. Distribution of Danceability Scores Across Different Years
+
 •	Approach: Grouped the dataset by year and calculated summary statistics (mean, median, and standard deviation) of danceability scores. Used a violin plot for visualization.
 
 6. Trends in Energy Levels of Songs Over the Years
+
 •	Approach: Grouped the dataset by year and calculated the average energy level of songs for each year. Visualized trends using a line plot.
 
 7. Popularity of Top Hits Among Top 10 Artists
+
 •	Approach: Grouped the dataset by artist to calculate total songs and average popularity for the top 10 artists. Visualized the relationship using a horizontal bar plot.
 
 8. Distribution of Songs with and Without Explicit Content
+
 •	Approach: Grouped the dataset by explicit content and counted the number of songs. Represented distribution with a pie chart.
 
 9. Relationship Between Acousticness and Song Valence
+
 •	Approach: Calculated the Pearson correlation coefficient between acousticness and valence.
 
 10. Differences in Tempo Across Modes (Major vs. Minor)
+
 •	Approach: Grouped the dataset by mode and calculated the average tempo for major and minor modes. Compared average tempos.
 
 11. Popularity of Genres Over the Years
+
 •	Approach: Grouped the dataset by year and genre, calculated average popularity, and visualized trends using a line plot.
 
 12. Relationship Between Song Liveliness and Instrumentalness
+
 •	Approach: Calculated the Pearson correlation coefficient between liveliness and instrumentalness.
 
 Insights and Recommendations
 
 1. Song Duration Across Different Genres
+
 Insight: Duration varies significantly across genres.
+
 Recommendation: Artists should consider genre-specific trends in song duration when creating music. Streaming services can curate playlists with diverse song lengths.
 
 3. Correlation Between Song Popularity and Explicit Content
+
 Insight: Very weak correlation between popularity and explicit content.
+
 Recommendation: Focus on song quality and audience engagement rather than explicit content alone.
 
 4. Distribution of Danceability Scores Across Different Years
+
 Insight: Danceability scores have increased over recent years.
+
 Recommendation: Align new releases with danceability trends and experiment with danceable elements in music production.
 
 5. Trends in Energy Levels of Songs Over the Years
+
 Insight: Energy levels have fluctuated, with peaks in the mid-2010s and 2020.
+
 Recommendation: Monitor energy level trends to align with listener preferences and emphasize high-energy tracks during peak periods.
 
 6. Popularity of Top Hits Among Top 10 Artists
+
 Insight: Variation in average popularity among top artists.
+
 Recommendation: Balance the number of songs with maintaining high popularity and optimize marketing efforts based on release schedules and artist performance.
 
 7. Distribution of Songs With and Without Explicit Content
+
 Insight: Higher number of songs with explicit content.
+
 Recommendation: Adjust content policies and curate playlists that cater to various preferences regarding explicit content.
 
 8. Relationship Between Acousticness and Song Valence
+
 Insight: Weak negative relationship between acousticness and valence.
+
 Recommendation: Consider balancing acoustic and emotional qualities in music production to meet diverse listener preferences.
 
 9. Differences in Tempo Across Modes (Major vs. Minor)
+
 Insight: Minor modes have slightly higher average tempo.
+
 Recommendation: Experiment with different modes to achieve varied tempo and enhance the dynamic range of compositions.
 
 10. Popularity of Genres Over the Years
+
 Insight: Genre popularity has evolved, reflecting changing listener preferences.
+
 Recommendation: Stay updated on genre trends to align new releases with audience interests and target marketing strategies effectively.
 
 11. Relationship Between Song Liveliness and Instrumentalness
-Insight: Very weak relationship between liveliness and instrumentalness. Recommendation: Focus on creating lively tracks without being overly concerned about instrumentalness. Explore other factors influencing song success.
+
+Insight: Very weak relationship between liveliness and instrumentalness. Recommendation: Focus on creating lively tracks without being overly concerned about 
+
+instrumentalness. Explore other factors influencing song success.
 
 Conclusion
 
